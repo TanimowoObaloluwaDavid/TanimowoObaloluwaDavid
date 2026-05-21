@@ -1,37 +1,220 @@
-<h1 align="center">Hi 👋, I'm Tanimowo Obaloluwa</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<!-- TANIMOWO OBALOLUWA DAVID — README.md -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanimowoobaloluwa&label=Profile%20views&color=0e75b6&style=flat" alt="tanimowoobaloluwa" /> </p>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Tanimowo%20Obaloluwa%20David&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Fullstack%20Dev%20%7C%20Senior%20Flutter%20Engineer%20%7C%20Game%20Dev%20%7C%20Cloud%20Specialist&descSize=14&descAlignY=75&descColor=cdd9e5" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanimowoobaloluwa" alt="tanimowoobaloluwa" /></a> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/tandave117268" target="blank"><img src="https://img.shields.io/twitter/follow/tandave117268?logo=twitter&style=for-the-badge" alt="tandave117268" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi+I'm+Tanimowo+from+Lagos+🇳🇬;🌐+Fullstack+Web+Developer;📱+Senior+Flutter+Mobile+Engineer;🎮+Game+Developer;☁️+Cloud+Specialist;⚡+7%2B+Years+in+Tech;🚀+126+Public+Repos+%26+Counting)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [a e-commerce app](https://github.com/TanimowoObaloluwaDavid/Ecommerce-App)
+</div>
 
-- 🌱 I’m currently learning **Typescricpt**
+<br/>
 
-- 💬 Ask me about **Flutter**
+<div align="center">
 
-- 📫 How to reach me **codex5358@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/tanimowo-obaloluwa-david-2663382a7)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tandave117268)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/devdave)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codex5358@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codex)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/tanimowo-obaloluwa)
 
-- 📄 Know about my experiences [https://ng.linkedin.com/in/tanimowo-obaloluwa-david-2663382a7](https://ng.linkedin.com/in/tanimowo-obaloluwa-david-2663382a7)
+<br/>
 
-- ⚡ Fun fact **IM A innovator**
+![Views](https://komarev.com/ghpvc/?username=tanimowoobaloluwa&style=flat-square&color=58a6ff&label=Profile+Views)
+&nbsp;
+![Repos](https://img.shields.io/badge/Repos-126-58a6ff?style=flat-square)
+&nbsp;
+![Experience](https://img.shields.io/badge/Experience-7%2B+Years-58a6ff?style=flat-square)
+&nbsp;
+![Lagos](https://img.shields.io/badge/Lagos-Nigeria%20🇳🇬-00a550?style=flat-square)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/devdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devdave" height="30" width="40" /></a>
-<a href="https://twitter.com/tandave117268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tandave117268" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanimowo obaloluwa david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanimowo obaloluwa david" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tanimowo obaloluwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanimowo obaloluwa" height="30" width="40" /></a>
-<a href="https://instagram.com/codex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codex" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tanimowo obaloluwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanimowo obaloluwa" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimowoobaloluwa&show_icons=true&locale=en&layout=compact" alt="tanimowoobaloluwa" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimowoobaloluwa&show_icons=true&locale=en" alt="tanimowoobaloluwa" /></p>
+```ts
+const tanimowo = {
+  name:       "Tanimowo Obaloluwa David",
+  location:   "Lagos, Nigeria 🇳🇬",
+  experience: "7+ years in the tech industry",
+
+  roles: [
+    "🌐  Fullstack Web Developer",
+    "📱  Senior Flutter Mobile App Developer",
+    "🎮  Game Developer",
+    "☁️  Cloud Specialist",
+  ],
+
+  currently: {
+    building:  "Production E-Commerce Platform",
+    learning:  "Advanced TypeScript patterns",
+    exploring: "Next-gen game mechanics & cloud infra",
+  },
+
+  funFact: "I've shipped web apps, mobile apps, games & cloud systems — sometimes in the same sprint.",
+  motto:   "Build things that last. Ship things that matter.",
+};
+```
+
+---
+
+## 🧠 What I Do Best
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Fullstack Web
+- React · Next.js · TypeScript frontends
+- Node.js · Express REST APIs
+- Auth, payments, real-time features
+- MySQL · MongoDB · PostgreSQL
+- Full CI/CD & deployment pipelines
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Senior Flutter Mobile
+- 7+ years cross-platform expertise
+- Clean Architecture · BLoC · Riverpod
+- Firebase Auth · Firestore · Cloud Storage
+- Complex custom UI & animations
+- Play Store & App Store shipped apps
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Game Development
+- Game logic, physics & state systems
+- Interactive experiences & simulations
+- Cross-platform game builds
+- Creative problem solving at its peak
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Specialist
+- Firebase ecosystem — expert level
+- Cloud Functions & serverless architecture
+- Scalable infrastructure design
+- Performance monitoring & optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**📱 Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**🌐 Web**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**☁️ Cloud & Databases**
+
+![Firebase](https://img.shields.io/badge/Firebase_Cloud-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**🎮 Game & Design**
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+</div>
+
+---
+
+## 🎲 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+
+</div>
+
+---
+
+## 🌊 Activity Wave
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanimowoobaloluwa&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&line=58a6ff&point=ffffff&hide_title=true" width="100%" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanimowoobaloluwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanimowoobaloluwa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=tanimowoobaloluwa&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanimowoobaloluwa&theme=tokyonight&no-frame=true&column=7&margin-w=6" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| | Project | Stack | Status |
+|---|---|---|---|
+| 🛒 | [E-Commerce Platform](https://github.com/TanimowoObaloluwaDavid/Ecommerce-App) | Flutter · Firebase · Node.js | 🔧 Active |
+| 📱 | Flutter Production Apps | Dart · BLoC · Firebase | ✅ Shipped |
+| 🎮 | Game Projects | Dart · Custom Engine | 🔧 In Progress |
+| ☁️ | Cloud Architecture Work | Firebase · Serverless | ✅ Live |
+
+---
+
+<div align="center">
+
+> *"7 years. 126 repos. 4 disciplines. One mission — build things that matter."*
+>
+> **Tanimowo Obaloluwa David · Lagos, Nigeria 🇳🇬**
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/💼%20Open%20to%20Work-Let's%20Talk-58a6ff?style=for-the-badge)](mailto:codex5358@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/tanimowo-obaloluwa-david-2663382a7)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&text=Fullstack+%7C+Mobile+%7C+Games+%7C+Cloud&fontSize=16&fontColor=fff&fontAlignY=65" />
+
+</div>
