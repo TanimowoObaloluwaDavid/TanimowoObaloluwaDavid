@@ -191,6 +191,22 @@ const tanimowo = {
 
 ---
 
+## 🌍 Open Source
+
+<div align="center">
+
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanimowoObaloluwaDavid?tab=repositories)
+[![Pull Requests](https://img.shields.io/github/issues-pr/TanimowoObaloluwaDavid?style=for-the-badge&logo=codefactor&logoColor=white&label=PRs)](https://github.com/TanimowoObaloluwaDavid)
+[![Followers](https://img.shields.io/github/followers/TanimowoObaloluwaDavid?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanimowoObaloluwaDavid?tab=followers)
+
+</div>
+
+I contribute to individual open-source projects across different stacks — from large platforms to neat tools — opening well-tested pull requests. You can follow my open-source work in my public activity and PR history.
+
+*Badges & GitHub achievements (Pull Shark 🦈, and friends) are earned live as PRs get merged.*
+
+---
+
 ## 🚀 Featured Projects
 
 | | Project | Stack | Status |
