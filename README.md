@@ -203,7 +203,19 @@ const tanimowo = {
 
 I contribute to individual open-source projects across different stacks — from large platforms to neat tools — opening well-tested pull requests. You can follow my open-source work in my public activity and PR history.
 
-*Badges & GitHub achievements (Pull Shark 🦈, and friends) are earned live as PRs get merged.*
+---
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+[![Pull Shark](https://img.shields.io/badge/Pull%20Shark-FCAF45?style=flat-square&logo=github&logoColor=white)](https://github.com/TanimowoObaloluwaDavid?tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-FCAF45?style=flat-square&logo=github&logoColor=white)](https://github.com/TanimowoObaloluwaDavid?tab=achievements)
+[![YOLO](https://img.shields.io/badge/YOLO-FCAF45?style=flat-square&logo=github&logoColor=white)](https://github.com/TanimowoObaloluwaDavid?tab=achievements)
+
+</div>
+
+*Earned live as PRs get merged — full list on the [achievements tab](https://github.com/TanimowoObaloluwaDavid?tab=achievements).*
 
 ---
 
